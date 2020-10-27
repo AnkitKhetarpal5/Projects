@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassLibraryMyBikesStoreBusLayer.Bikes" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAEAAAAEAAAAAAAAAEABAQCAAAAAAQAAAAE=</HashCode>
+      <FileName>Bus\Bikes.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibraryMyBikesStoreBusLayer.Date" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAJAAAAAAEAAAAAAAAAAQAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Bus\Date.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryMyBikesStoreBusLayer.MountainBikes" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAACAAAAAgAAAAAAAAAE=</HashCode>
+      <FileName>Bus\MountainBikes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryMyBikesStoreBusLayer.RegExValidator" Collapsed="true">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQBAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Bus\RegExValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryMyBikesStoreBusLayer.RoadBikes" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAABAAAAAQAE=</HashCode>
+      <FileName>Bus\RoadBikes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ClassLibraryMyBikesStoreBusLayer.IMovable" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Bus\IMovable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ClassLibraryMyBikesStoreBusLayer.EnumColor" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Bus\EnumColor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ClassLibraryMyBikesStoreBusLayer.EnumSuspension" Collapsed="true">
+    <Position X="5.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAADA=</HashCode>
+      <FileName>Bus\EnumSuspension.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ClassLibraryMyBikesStoreBusLayer.EnumType" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAgAAAAAAAACA=</HashCode>
+      <FileName>Bus\EnumType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

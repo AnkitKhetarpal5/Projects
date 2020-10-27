@@ -1,0 +1,58 @@
+E:\C#\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\bin\Debug\The Presentation Layer  Managing the stock of bikes.exe.config
+E:\C#\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\bin\Debug\The Presentation Layer  Managing the stock of bikes.exe
+E:\C#\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\bin\Debug\The Presentation Layer  Managing the stock of bikes.pdb
+E:\C#\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\bin\Debug\ClassLibraryBusinessMyBikeBusLayer.dll
+E:\C#\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\bin\Debug\ClassLibraryDataLayer.dll
+E:\C#\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\bin\Debug\ClassLibraryBusinessMyBikeBusLayer.pdb
+E:\C#\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\bin\Debug\ClassLibraryDataLayer.pdb
+E:\C#\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\obj\Debug\The Presentation Layer  Managing the stock of bikes.csprojAssemblyReference.cache
+E:\C#\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\obj\Debug\The_Presentation_Layer__Managing_the_stock_of_bikes.Form1.resources
+E:\C#\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\obj\Debug\The_Presentation_Layer__Managing_the_stock_of_bikes.Properties.Resources.resources
+E:\C#\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\obj\Debug\The Presentation Layer  Managing the stock of bikes.csproj.GenerateResource.cache
+E:\C#\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\obj\Debug\The Presentation Layer  Managing the stock of bikes.csproj.CoreCompileInputs.cache
+E:\C#\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\obj\Debug\The Presentation Layer  Managing the stock of bikes.csproj.CopyComplete
+E:\C#\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\obj\Debug\The Presentation Layer  Managing the stock of bikes.exe
+E:\C#\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\obj\Debug\The Presentation Layer  Managing the stock of bikes.pdb
+C:\Users\admin\Desktop\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\bin\Debug\The Presentation Layer  Managing the stock of bikes.exe.config
+C:\Users\admin\Desktop\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\bin\Debug\The Presentation Layer  Managing the stock of bikes.exe
+C:\Users\admin\Desktop\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\bin\Debug\The Presentation Layer  Managing the stock of bikes.pdb
+C:\Users\admin\Desktop\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\bin\Debug\ClassLibraryBusinessMyBikeBusLayer.dll
+C:\Users\admin\Desktop\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\bin\Debug\ClassLibraryDataLayer.dll
+C:\Users\admin\Desktop\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\bin\Debug\ClassLibraryBusinessMyBikeBusLayer.pdb
+C:\Users\admin\Desktop\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\bin\Debug\ClassLibraryDataLayer.pdb
+C:\Users\admin\Desktop\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\obj\Debug\The Presentation Layer  Managing the stock of bikes.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\obj\Debug\The_Presentation_Layer__Managing_the_stock_of_bikes.Form1.resources
+C:\Users\admin\Desktop\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\obj\Debug\The_Presentation_Layer__Managing_the_stock_of_bikes.Properties.Resources.resources
+C:\Users\admin\Desktop\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\obj\Debug\The Presentation Layer  Managing the stock of bikes.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\obj\Debug\The Presentation Layer  Managing the stock of bikes.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\obj\Debug\The Presentation Layer  Managing the stock of bikes.csproj.CopyComplete
+C:\Users\admin\Desktop\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\obj\Debug\The Presentation Layer  Managing the stock of bikes.exe
+C:\Users\admin\Desktop\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\obj\Debug\The Presentation Layer  Managing the stock of bikes.pdb
+C:\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\bin\Debug\The Presentation Layer  Managing the stock of bikes.exe.config
+C:\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\bin\Debug\The Presentation Layer  Managing the stock of bikes.exe
+C:\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\bin\Debug\The Presentation Layer  Managing the stock of bikes.pdb
+C:\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\bin\Debug\ClassLibraryBusinessMyBikeBusLayer.dll
+C:\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\bin\Debug\ClassLibraryDataLayer.dll
+C:\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\bin\Debug\ClassLibraryBusinessMyBikeBusLayer.pdb
+C:\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\bin\Debug\ClassLibraryDataLayer.pdb
+C:\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\obj\Debug\The Presentation Layer  Managing the stock of bikes.csprojAssemblyReference.cache
+C:\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\obj\Debug\The_Presentation_Layer__Managing_the_stock_of_bikes.Form1.resources
+C:\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\obj\Debug\The_Presentation_Layer__Managing_the_stock_of_bikes.Properties.Resources.resources
+C:\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\obj\Debug\The Presentation Layer  Managing the stock of bikes.csproj.GenerateResource.cache
+C:\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\obj\Debug\The Presentation Layer  Managing the stock of bikes.csproj.CoreCompileInputs.cache
+C:\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\obj\Debug\The Presentation Layer  Managing the stock of bikes.csproj.CopyComplete
+C:\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\obj\Debug\The Presentation Layer  Managing the stock of bikes.exe
+C:\MyBike\MyBike\The Presentation Layer  Managing the stock of bikes\The Presentation Layer  Managing the stock of bikes\obj\Debug\The Presentation Layer  Managing the stock of bikes.pdb
+C:\MyBike\MyBike\PresntationLayerMyBike\The Presentation Layer  Managing the stock of bikes\bin\Debug\The Presentation Layer  Managing the stock of bikes.exe.config
+C:\MyBike\MyBike\PresntationLayerMyBike\The Presentation Layer  Managing the stock of bikes\bin\Debug\The Presentation Layer  Managing the stock of bikes.exe
+C:\MyBike\MyBike\PresntationLayerMyBike\The Presentation Layer  Managing the stock of bikes\bin\Debug\The Presentation Layer  Managing the stock of bikes.pdb
+C:\MyBike\MyBike\PresntationLayerMyBike\The Presentation Layer  Managing the stock of bikes\bin\Debug\ClassLibraryBusinessMyBikeBusLayer.pdb
+C:\MyBike\MyBike\PresntationLayerMyBike\The Presentation Layer  Managing the stock of bikes\bin\Debug\ClassLibraryDataLayer.pdb
+C:\MyBike\MyBike\PresntationLayerMyBike\The Presentation Layer  Managing the stock of bikes\obj\Debug\The Presentation Layer  Managing the stock of bikes.csprojAssemblyReference.cache
+C:\MyBike\MyBike\PresntationLayerMyBike\The Presentation Layer  Managing the stock of bikes\obj\Debug\The_Presentation_Layer__Managing_the_stock_of_bikes.Form1.resources
+C:\MyBike\MyBike\PresntationLayerMyBike\The Presentation Layer  Managing the stock of bikes\obj\Debug\The_Presentation_Layer__Managing_the_stock_of_bikes.Properties.Resources.resources
+C:\MyBike\MyBike\PresntationLayerMyBike\The Presentation Layer  Managing the stock of bikes\obj\Debug\The Presentation Layer  Managing the stock of bikes.csproj.GenerateResource.cache
+C:\MyBike\MyBike\PresntationLayerMyBike\The Presentation Layer  Managing the stock of bikes\obj\Debug\The Presentation Layer  Managing the stock of bikes.csproj.CoreCompileInputs.cache
+C:\MyBike\MyBike\PresntationLayerMyBike\The Presentation Layer  Managing the stock of bikes\obj\Debug\The Presentation Layer  Managing the stock of bikes.csproj.CopyComplete
+C:\MyBike\MyBike\PresntationLayerMyBike\The Presentation Layer  Managing the stock of bikes\obj\Debug\The Presentation Layer  Managing the stock of bikes.exe
+C:\MyBike\MyBike\PresntationLayerMyBike\The Presentation Layer  Managing the stock of bikes\obj\Debug\The Presentation Layer  Managing the stock of bikes.pdb
